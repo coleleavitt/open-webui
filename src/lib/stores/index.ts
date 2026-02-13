@@ -293,6 +293,7 @@ type Config = {
 		pending_user_overlay_title?: string;
 		pending_user_overlay_content?: string;
 	};
+	branding?: any;
 };
 
 type PromptSuggestion = {
